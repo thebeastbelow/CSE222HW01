@@ -1,0 +1,1 @@
+Run HotelMan to start management system.
